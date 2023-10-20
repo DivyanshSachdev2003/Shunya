@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Walter White",
+    "title": "Chief Executive Officer",
+    "image": "assets/img/team/team-1.jpg",
+    "alt": "Walter White Image"
+  },
+  {
+    "name": "Jesse Pinkman",
+    "title": "Chief Operating Officer",
+    "image": "assets/img/team/team-2.jpg",
+    "alt": "Jesse Pinkman Image"
+  },
+  {
+    "name": "Saul Goodman",
+    "title": "Legal Advisor",
+    "image": "assets/img/team/team-3.jpg",
+    "alt": "Saul Goodman Image"
+  },
+  {
+    "name": "Skyler White",
+    "title": "CFO",
+    "image": "assets/img/team/team-4.jpg",
+    "alt": "Skyler White Image"
+  }
+]
